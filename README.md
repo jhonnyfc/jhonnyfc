@@ -1,5 +1,5 @@
 # UPNA computer engineering <br>
-## [My ortfolio](https://jhonnyfc.github.io/)
+## [My portfolio](https://jhonnyfc.github.io/)
 
 <br>
 
